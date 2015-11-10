@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/angseus/Documents/Projects/Node.js/SimpleServer'
+let g:netrw_dirhist_2='/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/.git'
