@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eConn",
+				"eConnStateSending"
+			],
+			[
+				"select",
+				"select_response"
+			],
+			[
+				"is",
+				"isWaiting"
+			],
+			[
+				"REG",
+				"Registrations"
+			],
+			[
+				"Cred",
+				"Credits"
+			],
+			[
+				"Credits",
+				"Credits_Branch"
+			],
+			[
+				"regist",
+				"registeredOrWaiting"
+			],
+			[
+				"isW",
+				"isWaitingForCourse"
+			],
+			[
+				"register",
+				"registeredForCourse"
+			],
+			[
+				"execute",
+				"executeQuery"
+			],
+			[
+				"first",
+				"firstStuInQueue"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"pre",
+				"prerequisitesCompleted"
+			],
+			[
+				"stude",
+				"student_id"
+			],
+			[
+				"preq",
+				"prerequisites"
+			],
+			[
+				"stud",
+				"student_id"
+			],
+			[
+				"Credit",
+				"Credits_Branch"
+			],
+			[
+				"branch",
+				"branch"
+			],
+			[
+				"program",
+				"programme_abbreviation"
+			],
+			[
+				"programme",
+				"programme_abbreviation"
+			],
+			[
+				"prora",
+				"programmeMandatory"
+			],
+			[
+				"programm",
+				"programme_abbreviation"
+			],
+			[
+				"pro",
+				"programme_abbreviation"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "set syntax py",
+		"selected_items":
+		[
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"Set syntax pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"set syntax: mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set",
+				"Set Syntax: Textile"
+			],
+			[
+				"Set syntax: pyt",
+				"Set Syntax: Python"
+			],
+			[
+				":4",
+				"Set Syntax: camlp4"
+			],
+			[
+				"Git",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"package ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/angseus/Documents/develop/dotfiles"
+	],
+	"file_history":
+	[
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/project/header.html",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/demokit/restrictions.test",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/project/blackboard.repy",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/project/blackboard.html",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/project/footer.html",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/demokit/helloworldweb.repy",
+		"/Users/angseus/Documents/Education/Master/Distributed Systems (TDA596)/labs/lab_skeleton/advanced/skeleton2015advanced.repy",
+		"/Users/angseus/Downloads/google-python-exercises/basic/string1.py",
+		"/Users/angseus/Documents/develop/wow.sh",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/build/index.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/build/public/index.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/build/public/init.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/content/index.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/content/about.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/content/medlemmar.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/ContentPage/ContentPage.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/ContentPage/ContentPage.css",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/App/App.css",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/Link/Link.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/Navigation/Navigation.css",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/Navigation/Navigation.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/build/content/medlemmar.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/Header/Header.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/Header/Header.css",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/components/variables.css",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/api/content.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/README.md",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/main.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/index.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/package.json",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/src/main.jsx",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/public/index.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/comments.json",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/js/router.js",
+		"/Users/angseus/Downloads/server-iterative.cpp",
+		"/Users/angseus/Documents/Courses/Master/EDA387/eda387/Lab3/server-iterative.cpp",
+		"/Users/angseus/Desktop/AANDÄDÖ",
+		"/Users/angseus/Documents/Courses/Master/EDA387/eda387/Lab2/server-iterative.cpp",
+		"/Users/angseus/Documents/develop/festu.chs.chalmers.se/festu.php",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/pages/medlemmar.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/pages/om.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/pages/lokaler.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/pages/home.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/pages/kontakt.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/medlemmar.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/script.js",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/kontakt.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/lokaler.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/robots.txt",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/om.html",
+		"/Users/angseus/Documents/develop/kak.chs.chalmers.se/css/foundation.css",
+		"/Users/angseus/Documents/develop/festu.chs.chalmers.se/uthyrning.php",
+		"/Users/angseus/Downloads/LocalSettings.php",
+		"/Users/angseus/Desktop/spam.sh",
+		"/Users/angseus/spam.sh",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/client/ethclient.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/main.jsx",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/scripts/deploy_contract.py",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/components/JsonRPC.jsx",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/components/KeyValue.jsx",
+		"/Users/angseus/Downloads/frågor_intervju.txt",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/server.js",
+		"/Users/angseus/.zshrc",
+		"/Users/angseus/Documents/develop/dccp/docker-transfer/package.json",
+		"/Users/angseus/Documents/develop/dccp/docker-transfer/src/server.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/build/index.html",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/package.json",
+		"/Users/angseus/.oh-my-zsh/themes/blinks.zsh-theme",
+		"/Users/angseus/.oh-my-zsh/oh-my-zsh.sh",
+		"/etc/default/locale",
+		"/Users/angseus/.profile",
+		"/Users/angseus/Documents/develop/configs/.zprofile",
+		"/Users/angseus/.zshrc-e",
+		"/Users/angseus/.zshrc.pre-oh-my-zsh",
+		"/Users/angseus/Documents/develop/strecku3/strecku3/strecku3.py",
+		"/Users/angseus/Documents/develop/strecku3/templates/main/user.html",
+		"/Users/angseus/Documents/develop/strecku3/templates/main/graph.html",
+		"/Users/angseus/Documents/develop/strecku3/templates/main/client.html",
+		"/Users/angseus/Documents/develop/strecku3/templates/main/index.html",
+		"/Users/angseus/Documents/develop/Chart.js/samples/line.html",
+		"/Users/angseus/Documents/develop/festu/index.html",
+		"/Users/angseus/Documents/develop/festu/css/style.css",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/components/NavTab.jsx",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/components/WorkerPanel.jsx",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/src/components/NavBar.jsx",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/ethereum.js/example/node-app.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/es5-shim/tests/native.html",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/ethereum.js/gulpfile.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/babelify/node_modules/babel-core/node_modules/js-tokens/generate-index.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/coveralls/lib/fetchGitData.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/browserify/node_modules/insert-module-globals/node_modules/combine-source-map/node_modules/inline-source-map/node_modules/source-map/build/test-prefix.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/browserify/node_modules/insert-module-globals/node_modules/combine-source-map/node_modules/inline-source-map/node_modules/source-map/test/source-map/util.js",
+		"/Users/angseus/Documents/develop/dccp/zeppelin/node_modules/mochify-istanbul/node_modules/istanbul/lib/register-plugins.js",
+		"/Users/angseus/Documents/Courses/TDA357/setup.sql",
+		"/Users/angseus/Documents/Courses/TDA357/insert.sql",
+		"/Users/angseus/Documents/Courses/TDA357/tables.sql",
+		"/Users/angseus/Documents/Courses/TDA357/triggers.sql",
+		"/Users/angseus/Documents/Courses/TDA357/views.sql",
+		"/Users/angseus/Documents/Courses/TDA357/schema.txt",
+		"/Users/angseus/Documents/Courses/TDA357/triggertest.sql",
+		"/Users/angseus/Documents/Courses/TDA357/Lab4/StudentPortal.java",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab3/triggers.sql",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab2/tables.sql",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab3/triggertest.sql",
+		"/Users/angseus/Desktop/Bart.tt",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab4/StudentPortal.java",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab2/views.sql",
+		"/Users/angseus/Documents/Courses/TDA357/Lab4/ojdbc5.jar",
+		"/Users/angseus/Documents/Courses/TDA357/contributors.txt",
+		"/Users/angseus/Documents/develop/configs/README.md",
+		"/Users/angseus/Documents/develop/festu/ReadMe.txt",
+		"/Users/angseus/Documents/Projects/DCCP/dapp-tutorial/dapp1.html",
+		"/Users/angseus/Documents/Projects/DCCP/dapp-tutorial/metaCoin.sol",
+		"/Users/angseus/Documents/Projects/DCCP/dapp-tutorial/dapp2.html",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/whisper.py",
+		"/Users/angseus/Documents/Courses/TDA357/drop.sql",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/README.md",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/db.py",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/ethereumJSON.py",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/ethereum.py",
+		"/Users/angseus/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/LICENSE",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/.gitignore",
+		"/Users/angseus/Documents/Projects/DCCP/ethereum-python-api/whisperAPI.py",
+		"/Users/angseus/Desktop/sommarjobb.txt",
+		"/Users/angseus/Desktop/strecku_02-18-2015.sql",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab1/fd.txt",
+		"/Users/angseus/Documents/Courses/TDA357/Databaser/Lab1/schema.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sockobj",
+			"CODE",
+			"sign",
+			"styles",
+			"jade",
+			"about",
+			"server.js",
+			"props.url",
+			"set_socket_nonblocking",
+			"orderly shutdown",
+			"is_invalid",
+			"connections.",
+			"conncetions.sock",
+			".a",
+			"li",
+			"active",
+			"button",
+			"timestamp",
+			"a few seconds",
+			"chain",
+			"width:",
+			"link",
+			"a",
+			"div id",
+			"Router.State",
+			"TDA357",
+			"place",
+			"GROUP BY",
+			"isregistered",
+			"OurCoursesRel",
+			"aspa",
+			"Registered",
+			"MAT122",
+			"passedCourses",
+			"Credits",
+			"classifications",
+			"waiting",
+			"9102224455",
+			"TDA222",
+			"aspa",
+			"CFFC",
+			"center",
+			"h4",
+			"heading",
+			"span",
+			"tab",
+			"about",
+			"FF3333",
+			"55acee",
+			"link",
+			"links",
+			"main-navigation animated",
+			"portfolio",
+			"span",
+			"pre",
+			"preloader",
+			"preloader-t",
+			"preloader-text-line p",
+			"preloader-text-line preloader-text-line-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 169.0
+	},
+	"pinned_build_system": "",
+	"project": "dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"navbar",
+				"src/components/NavBar.jsx"
+			],
+			[
+				"dashb",
+				"src/components/Dashboard.jsx"
+			],
+			[
+				"vi",
+				"TDA357/views.sql"
+			],
+			[
+				"in",
+				"TDA357/insert.sql"
+			],
+			[
+				"ta",
+				"TDA357/tables.sql"
+			],
+			[
+				"",
+				"ethereum.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
