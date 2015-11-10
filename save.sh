@@ -2,8 +2,8 @@
 
 cd ~/
 cp .gitconfig ~/develop/dotfiles
-cp -r .oh-my-zsh/ ~/develop/dotfiles
-cp -r .vim/ ~/develop/dotfiles
-cp -r .viminfo ~/develop/dotfiles
-cp -r .vimrc ~/develop/dotfiles
-cp -r .zshrc ~/develop/dotfiles
+cp -R .oh-my-zsh/ ~/develop/dotfiles
+cp -R .vim/ ~/develop/dotfiles
+cp -R .viminfo ~/develop/dotfiles
+cp -R .vimrc ~/develop/dotfiles
+cp -R .zshrc ~/develop/dotfiles
