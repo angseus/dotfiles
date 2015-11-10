@@ -1,9 +1,8 @@
 #!/bin/bash
 
 cd ~/
-cp .gitconfig ~/develop/dotfiles
-cp -R .oh-my-zsh/ ~/develop/dotfiles
-cp -R .vim/ ~/develop/dotfiles
-cp -R .viminfo ~/develop/dotfiles
-cp -R .vimrc ~/develop/dotfiles
-cp -R .zshrc ~/develop/dotfiles
+tar -czf dotfiles.tar.gz .gitconfig .vim/ .viminfo .vimrc .zshrc .oh-my-zsh/
+mv dotfiles.tar.gz ~/develop/dotfiles
+cd ~/develop/dotfiles
+tar -zxvf dotfiles.tar.gz
+rm dotfiles.tar.gz
